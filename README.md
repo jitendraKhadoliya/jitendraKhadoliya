@@ -37,9 +37,4 @@
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
 </h2>
 
-<p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/jitendrakhadoliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jitendrakhadoliya" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/jitendra.kahadoliya/about/?_rdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jitendra.kahadoliya/about/?_rdr" height="30" width="40" /></a>
-<a href="https://instagram.com/jitendra.khadoliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jitendra.khadoliya" height="30" width="40" /></a>
-
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jitendra.khadoliya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jitendrakhadoliya)
