@@ -39,10 +39,9 @@
 ## 📊 My Github Stats 🏆
   <br/>
   <p align="center">
-    <a href="https://github.com/jitendraKhadoliya/github-readme-stats">
-      <img alt="jitendraKhadoliya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jitendraKhadoliya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&line_height=27" />
-      <img alt="jitendraKhadoliya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitendraKhadoliya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&line_height=27" />
-    </a>
+  # 📊 GitHub Stats:![](https://github-readme-stats.vercel.app/api?username=jitendraKhadoliya&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jitendraKhadoliya&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jitendraKhadoliya&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)   
   </p> 
  
 
