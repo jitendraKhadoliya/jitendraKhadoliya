@@ -30,17 +30,15 @@
 <br/>
 <br/>
 
-<p align="center">
-    <a href="https://github.com/jitendraKhadoliya/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="jitendraKhadoliya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jitendraKHadoliya&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&line_height=35" />
-    </a>
-</p>
   <br/>
   
- # 📊 GitHub Stats 🏆:
+  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jitendraKhadoliya&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jitendraKhadoliya&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jitendraKhadoliya&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)   
- 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jitendraKhadoliya&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 <br/>
 <br/>
